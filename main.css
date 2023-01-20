@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+}
+
+header{
+    background-color: blue;
+    height: 25%;
+}
+.centro{
+    display: ;
+}
+main{
+    background-color: aqua;
+    width: 60%;
+    height: max-content;
+}
+aside{
+    background-color: aquamarine;
+    width: 40%;
+    float: right;
+}
+footer{
+    background-color: bisque;
+    display: flex;
+    height: 10%;
+}
