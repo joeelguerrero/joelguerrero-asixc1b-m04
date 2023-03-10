@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xmml-stylesheet href="./estilo.css" type="text/css"?>
+<?xml-stylesheet href="estilo.css" type="text/css"?>
 <alumnat>
     <nom>Joel</nom>
     <cognom>Guerrero Casadejust</cognom>
