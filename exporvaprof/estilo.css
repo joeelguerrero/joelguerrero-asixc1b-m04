@@ -1,0 +1,19 @@
+alumna{
+    padding: 30px;
+    margin: 30px;
+    border: 4px dotted blue;
+    width: 40%;
+}
+nom,cognom{
+    font-size: 30px;
+}
+classe{
+    padding-top: 20px;
+    display: block;
+    font-weight: bold;
+}
+carrec{
+    font-style: italic;
+    padding-left: 10px;
+}
+carrec::after{content: ",";}

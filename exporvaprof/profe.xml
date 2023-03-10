@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xmml-stylesheet href="./estil.css" type="text/css"?>
+<alumnat>
+    <nom>Joel</nom>
+    <cognom>Guerrero Casadejust</cognom>
+    <classe>ASIXc</classe>
+    <carrec>
+        <carrec>guapo</carrec>
+        <carrec>mas guapo</carrec>
+    </carrec>
+</alumnat>
